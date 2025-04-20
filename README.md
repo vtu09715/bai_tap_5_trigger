@@ -25,11 +25,15 @@
 ![image](https://github.com/user-attachments/assets/3f260eab-ab9a-4ff7-bba1-f388a4b6fc04)
 # SƠ ĐỒ LIÊN KẾT KHOÁ NGOẠI CỦA CÁC BẢNG 
 # 2 TẠO TRƯỜNG PHI CHUẨN CHO BẢNG PhieuThanhToan (TongTien / NgayHetHan)
-![image](https://github.com/user-attachments/assets/9eda9e98-d824-4bc1-8fa3-7dcce764b7b0)
+![image](https://github.com/user-attachments/assets/b1bf8819-7f72-46d9-b8dc-99a74dc6d9ba)
+
 # Việc thêm 2 trường phi chuẩn này là vô cùng cần thiết cho việc tính toán như tự động tính toán tổng tiền khách hàng cần phải thanh toán và tự động tính ngày hết hạn gửi xe của khách hàng giúp nhân viên quản lý dễ dàng hơn.
 
 # 3 viết trigger cho bảng PhieuThanhToan
-
+![image](https://github.com/user-attachments/assets/69240569-71cd-4c7d-9171-4710c6f1e4ab)
+# Mục đích của việc sử dụng trigger cho bảng này để tự đọng hoá quy trình tính toán phức tạp, đảm bảo tính nhất quán của dữ liệu, tránh sai sót do con người, giảm tải cho các ứng dụng phía trên.
+![image](https://github.com/user-attachments/assets/ce7b1752-e3a7-4e61-8fa1-2959c5a7eade)
+# Tự động hoá tính toán ngày hết hạn, tự động tính tổng tiền.
 
 
 

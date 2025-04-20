@@ -34,7 +34,8 @@
 # Mục đích của việc sử dụng trigger cho bảng này để tự đọng hoá quy trình tính toán phức tạp, đảm bảo tính nhất quán của dữ liệu, tránh sai sót do con người, giảm tải cho các ứng dụng phía trên.
 ![image](https://github.com/user-attachments/assets/ce7b1752-e3a7-4e61-8fa1-2959c5a7eade)
 # Tự động hoá tính toán ngày hết hạn, tự động tính tổng tiền.
-
+![image](https://github.com/user-attachments/assets/dddfe704-1d31-4c26-9b74-1b9f0c72efef)
+# Với những dữ liệu demo em đã nhập ở đầu khi tạo table thì đã sử dụng trigger để auto run việc tính tổng tiền thanh toán và auto việc tính ngày hết hạn gửi xe của khách hàng bỏ đi sử rủi do sai sót do con người.
 
 
 

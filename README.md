@@ -24,7 +24,11 @@
 # KHOÁ NGOẠI CỦA BẢNG PhieuThanhToan
 ![image](https://github.com/user-attachments/assets/3f260eab-ab9a-4ff7-bba1-f388a4b6fc04)
 # SƠ ĐỒ LIÊN KẾT KHOÁ NGOẠI CỦA CÁC BẢNG 
+# 2 TẠO TRƯỜNG PHI CHUẨN CHO BẢNG PhieuThanhToan (TongTien / NgayHetHan)
+![image](https://github.com/user-attachments/assets/9eda9e98-d824-4bc1-8fa3-7dcce764b7b0)
+# Việc thêm 2 trường phi chuẩn này là vô cùng cần thiết cho việc tính toán như tự động tính toán tổng tiền khách hàng cần phải thanh toán và tự động tính ngày hết hạn gửi xe của khách hàng giúp nhân viên quản lý dễ dàng hơn.
 
+# 3 viết trigger cho bảng PhieuThanhToan
 
 
 

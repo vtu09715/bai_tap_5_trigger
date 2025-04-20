@@ -1,4 +1,11 @@
 ## BÀI TẬP VỀ NHÀ 05, Môn Hệ quản trị csdl.
+
+## SUBJECT: Trigger on mssql
+
+## A. Trình bày lại đầu bài của đồ án PT&TKHT:
+## 1. Mô tả bài toán của đồ án PT&TKHT, đưa ra yêu cầu của bài toán đó
+# 2. Cơ sở dữ liệu của Đồ án PT&TKHT :Có database với các bảng dữ liệu cần thiết (3nf),Các bảng này đã có PK, FK, CK cần thiết
+ 
 # ĐỀ TÀI: PHÂN TÍCH VÀ THIẾT KẾ HỆ THỐNG QUẢN LÝ BÃI ĐỖ XE CỦA CHUNG CƯ
 
 # 1: CƠ SỞ DỮ LIỆU CỦA BÀI TOÁN 

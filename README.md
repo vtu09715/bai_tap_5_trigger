@@ -49,12 +49,11 @@
 ![image](https://github.com/user-attachments/assets/0ad3e7c5-a5ca-4b2a-a3e1-2332dbb21e9f)
 
 # Tạo bảng log theo dõi Bảng PhieuThanhToan
-![image](https://github.com/user-attachments/assets/b070f1d5-d30c-4763-b03c-ec33a9e41053)
 ![image](https://github.com/user-attachments/assets/9af1c275-82f0-49eb-8b12-77079519898d)
-
 # sử dụng trigger để ghi log khi updete
+![image](https://github.com/user-attachments/assets/dda469a1-6817-433c-8195-215154c6b1df)
 
-
+## UPDATE THÀNH CÔNG=> TRIGER RẤT HAY VÀ HẤP DẪN ĐÃ GIÚP CHO ĐỒ ÁN CỦA EM ĐƯỢC TÍNH TỰ DỘNG CÁC PHÉP TÍNH KHÓ DỄ SAI SÓT DO CON NGƯỜI, VÀ LƯU GIÁ TRỊ THAY ĐỔI VÀ CHƯA THAY ĐỔI TRONG BẢNG PhieuThanhToan.
 
 
 

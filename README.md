@@ -44,6 +44,16 @@
 # Tự động hoá tính toán ngày hết hạn, tự động tính tổng tiền.
 ![image](https://github.com/user-attachments/assets/dddfe704-1d31-4c26-9b74-1b9f0c72efef)
 # Với những dữ liệu demo em đã nhập ở đầu khi tạo table thì đã sử dụng trigger để auto run việc tính tổng tiền thanh toán và auto việc tính ngày hết hạn gửi xe của khách hàng bỏ đi sử rủi do sai sót do con người.
+# 4 tạo bảng log lưu các giá trị thay đổi của bảng PhieuThanhToan
+![image](https://github.com/user-attachments/assets/1909355f-a750-4b1a-9c5e-ca83cc1127ec)
+![image](https://github.com/user-attachments/assets/0ad3e7c5-a5ca-4b2a-a3e1-2332dbb21e9f)
+
+# Tạo bảng log theo dõi Bảng PhieuThanhToan
+![image](https://github.com/user-attachments/assets/b070f1d5-d30c-4763-b03c-ec33a9e41053)
+![image](https://github.com/user-attachments/assets/9af1c275-82f0-49eb-8b12-77079519898d)
+
+# sử dụng trigger để ghi log khi updete
+
 
 
 
